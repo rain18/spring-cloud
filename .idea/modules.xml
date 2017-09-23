@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/cloudclient/cloudclient.iml" filepath="$PROJECT_DIR$/cloudclient/cloudclient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloudserver/cloudserver.iml" filepath="$PROJECT_DIR$/cloudserver/cloudserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/servicefeign/servicefeign.iml" filepath="$PROJECT_DIR$/servicefeign/servicefeign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/serviceribbon/serviceribbon.iml" filepath="$PROJECT_DIR$/serviceribbon/serviceribbon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud.iml" filepath="$PROJECT_DIR$/spring-cloud.iml" />
+    </modules>
+  </component>
+</project>
