@@ -26,6 +26,7 @@
         <module name="cloudserver" />
         <module name="servicefeign" />
         <module name="serviceribbon" />
+        <module name="servicezuul" />
         <module name="spring-cloud" />
       </profile>
     </annotationProcessing>
@@ -34,6 +35,7 @@
       <module name="cloudserver" target="1.8" />
       <module name="servicefeign" target="1.8" />
       <module name="serviceribbon" target="1.8" />
+      <module name="servicezuul" target="1.8" />
       <module name="spring-cloud" target="1.5" />
     </bytecodeTargetLevel>
   </component>
